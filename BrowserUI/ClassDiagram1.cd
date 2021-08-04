@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BrowserUI.BrowserForm">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="BackButton" Hidden="true" />
+      <Field Name="BarLayout" Hidden="true" />
+      <Field Name="BrowserTableLayout" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="ErrorCodeLabel" Hidden="true" />
+      <Field Name="FavouriteButton" Hidden="true" />
+      <Field Name="FavouritesManager" Hidden="true" />
+      <Field Name="favouriteToolStripMenuItem" Hidden="true" />
+      <Field Name="ForwardButton" Hidden="true" />
+      <Field Name="HistoryManager" Hidden="true" />
+      <Field Name="historyToolStripMenuItem" Hidden="true" />
+      <Field Name="HomePageManager" Hidden="true" />
+      <Field Name="homeToolStripMenuItem" Hidden="true" />
+      <Field Name="HTMLBox" Hidden="true" />
+      <Field Name="HTMLLayout" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="Menu" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="RefreshButton" Hidden="true" />
+      <Field Name="URLBox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>YSYAAAIKQDAABAAAEUGBBCACgAAIIUAADIAokiAAGAI=</HashCode>
+      <FileName>BrowserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserUI.FavouriteForm">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="AddButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="DeleteButton" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="EditButton" Hidden="true" />
+      <Field Name="FavouriteBox" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="NameBox" Hidden="true" />
+      <Field Name="NameLabel" Hidden="true" />
+      <Field Name="SearchButton" Hidden="true" />
+      <Field Name="URLBox" Hidden="true" />
+      <Field Name="UrlLabel" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AhAAAAAAAiIQAAAAAACIAAAGAAEAAGAABMAAAYAABAg=</HashCode>
+      <FileName>FavouriteForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserUI.FavouriteForm2">
+    <Position X="4" Y="4" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="ResponseBox" Hidden="true" />
+      <Field Name="ResponseLabel" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAACgAAACAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>FavouriteForm2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserUI.HistoryForm">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="FavouriteButton" Hidden="true" />
+      <Field Name="HistoryBox" Hidden="true" />
+      <Field Name="HistoryLabel" Hidden="true" />
+      <Field Name="HistorySearch" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="SessionFavourite" Hidden="true" />
+      <Field Name="SessionHistoryBox" Hidden="true" />
+      <Field Name="SessionHistoryLabel" Hidden="true" />
+      <Field Name="SessionSearch" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QAIAQAAAiCAQAAQAAUCAAAACQAgAABAgBIAIAAABAgA=</HashCode>
+      <FileName>HistoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserUI.HistoryForm2">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="ResponseBox" Hidden="true" />
+      <Field Name="ResponseLabel" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAACgAAACAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>HistoryForm2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserUI.HomeForm">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="HomeCreateButton" Hidden="true" />
+      <Field Name="HomeLabel" Hidden="true" />
+      <Field Name="HomeName" Hidden="true" />
+      <Field Name="HomeNameLabel" Hidden="true" />
+      <Field Name="HomeUrl" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AgEAAABAACAQAAAgAACAAAACAAIAAAAEBAAAAAAAxAA=</HashCode>
+      <FileName>HomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserUI.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="BrowserUI.DataSenthandler">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HistoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

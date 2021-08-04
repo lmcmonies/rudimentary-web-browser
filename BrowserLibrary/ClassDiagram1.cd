@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BrowserLibrary.Address">
+    <Position X="1.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAACAAAAAAAAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserLibrary.Files">
+    <Position X="11.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAgAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Files.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserLibrary.FileUtility" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAA=</HashCode>
+      <FileName>FileUtility.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.667" Collapsed="true" />
+  </Class>
+  <Class Name="BrowserLibrary.GlobalDataConnection">
+    <Position X="9.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalDataConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserLibrary.HttpTool">
+    <Position X="5.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAgAIAAAAAAAAAA=</HashCode>
+      <FileName>HttpTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserLibrary.SessionHistory">
+    <Position X="3.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEAAABASEEAAAAAQAAAAAAQAAAAAA=</HashCode>
+      <FileName>SessionHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrowserLibrary.TextFileTool">
+    <Position X="9.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAABAAAAABAA=</HashCode>
+      <FileName>TextFileTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BrowserLibrary.IFileConnection">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAA=</HashCode>
+      <FileName>IFileConnection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

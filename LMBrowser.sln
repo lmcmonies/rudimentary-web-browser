@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserLibrary", "BrowserLibrary\BrowserLibrary.csproj", "{024492CA-798D-49B9-8E30-114C9E577890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserUI", "BrowserUI\BrowserUI.csproj", "{560D5DEE-CFD7-4329-94AC-24D4426657D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024492CA-798D-49B9-8E30-114C9E577890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024492CA-798D-49B9-8E30-114C9E577890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024492CA-798D-49B9-8E30-114C9E577890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024492CA-798D-49B9-8E30-114C9E577890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560D5DEE-CFD7-4329-94AC-24D4426657D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560D5DEE-CFD7-4329-94AC-24D4426657D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560D5DEE-CFD7-4329-94AC-24D4426657D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560D5DEE-CFD7-4329-94AC-24D4426657D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300A7723-C1D9-44F4-8B36-12360C4BB90B}
+	EndGlobalSection
+EndGlobal
